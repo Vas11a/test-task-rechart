@@ -1,0 +1,3 @@
+.chart_module_cont{
+    @apply w-full border-2 border-gray-200 rounded-xl py-8
+}

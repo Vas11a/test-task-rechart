@@ -1,0 +1,7 @@
+.nav_cont{
+    @apply py-3 border-y-2 border-gray-200
+}
+
+.list_cont{
+    @apply flex gap-10 flex-wrap items-center
+}
